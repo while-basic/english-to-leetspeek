@@ -2,9 +2,9 @@
 
 A simple terminal-based application written in Python to translate English text to leetspeak.
 
-## Features
-
 <img width="572" alt="Screenshot 2024-08-01 at 12 31 08 PM" src="https://github.com/user-attachments/assets/babbcc1f-1c57-4e29-bd2e-30f3c82f37df">
+
+## Features
 
 - Translates English text to leetspeak.
 - Easy-to-use terminal interface.
