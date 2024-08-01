@@ -19,7 +19,7 @@ A simple terminal-based application written in Python to translate English text 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/while-basic/leetspeak-translator.git
+    git clone https://github.com/while-basic/english-to-leetspeek.git
     ```
 2. Navigate to the project directory:
     ```sh
