@@ -30,7 +30,7 @@ A simple terminal-based application written in Python to translate English text 
 
 1. Run the translator program:
     ```sh
-    python leetspeak_translator.py
+    python translate.py
     ```
 2. Enter any English text to translate it to leetspeak.
 3. Type 'exit' to quit the application.
